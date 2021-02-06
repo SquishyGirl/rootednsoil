@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AmbiguousSuccessParser.php" server="ftp.rootednsoil.com//public_html/" local="132570659511348699" remote="132570716400000000" Dst="1" />
+<file name="ApplyChecksumMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659511368285" remote="132570716400000000" Dst="1" />
+<file name="BucketEndpointMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659511398183" remote="132570716400000000" Dst="1" />
+<file name="BatchDelete.php" server="ftp.rootednsoil.com//public_html/" local="132570659511388544" remote="132570716400000000" Dst="1" />
+<file name="GetBucketLocationParser.php" server="ftp.rootednsoil.com//public_html/" local="132570659512634878" remote="132570716400000000" Dst="1" />
+<file name="MultipartCopy.php" server="ftp.rootednsoil.com//public_html/" local="132570659512764527" remote="132570716400000000" Dst="1" />
+<file name="MultipartUploader.php" server="ftp.rootednsoil.com//public_html/" local="132570659512784484" remote="132570716400000000" Dst="1" />
+<file name="MultipartUploadingTrait.php" server="ftp.rootednsoil.com//public_html/" local="132570659512884243" remote="132570716400000000" Dst="1" />
+<file name="ObjectCopier.php" server="ftp.rootednsoil.com//public_html/" local="132570659512904160" remote="132570716400000000" Dst="1" />
+<file name="ObjectUploader.php" server="ftp.rootednsoil.com//public_html/" local="132570659513014260" remote="132570716400000000" Dst="1" />
+<file name="PermanentRedirectMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659513163458" remote="132570716400000000" Dst="1" />
+<file name="PostObject.php" server="ftp.rootednsoil.com//public_html/" local="132570659513323056" remote="132570716400000000" Dst="1" />
+<file name="PostObjectV4.php" server="ftp.rootednsoil.com//public_html/" local="132570659513482627" remote="132570716400000000" Dst="1" />
+<file name="PutObjectUrlMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659513492581" remote="132570716400000000" Dst="1" />
+<file name="RetryableMalformedResponseParser.php" server="ftp.rootednsoil.com//public_html/" local="132570659513512535" remote="132570716400000000" Dst="1" />
+<file name="S3Client.php" server="ftp.rootednsoil.com//public_html/" local="132570659513662188" remote="132570716400000000" Dst="1" />
+<file name="S3ClientInterface.php" server="ftp.rootednsoil.com//public_html/" local="132570659513811752" remote="132570716400000000" Dst="1" />
+<file name="S3EndpointMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659514081007" remote="132570716400000000" Dst="1" />
+<file name="S3ClientTrait.php" server="ftp.rootednsoil.com//public_html/" local="132570659513961338" remote="132570716400000000" Dst="1" />
+<file name="S3MultiRegionClient.php" server="ftp.rootednsoil.com//public_html/" local="132570659514240580" remote="132570716400000000" Dst="1" />
+<file name="S3UriParser.php" server="ftp.rootednsoil.com//public_html/" local="132570659514390181" remote="132570716400000000" Dst="1" />
+<file name="SSECMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659514559724" remote="132570716400000000" Dst="1" />
+<file name="StreamWrapper.php" server="ftp.rootednsoil.com//public_html/" local="132570659514719299" remote="132570716400000000" Dst="1" />
+<file name="Transfer.php" server="ftp.rootednsoil.com//public_html/" local="132570659514948689" remote="132570716400000000" Dst="1" />
+</dwsync>

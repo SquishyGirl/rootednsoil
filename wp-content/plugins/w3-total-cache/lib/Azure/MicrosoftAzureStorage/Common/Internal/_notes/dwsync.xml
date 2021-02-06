@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionStringSource.php" server="ftp.rootednsoil.com//public_html/" local="132570659548096300" remote="132570713400000000" Dst="1" />
+<file name="ConnectionStringParser.php" server="ftp.rootednsoil.com//public_html/" local="132570659547905611" remote="132570713400000000" Dst="1" />
+<file name="FilterableService.php" server="ftp.rootednsoil.com//public_html/" local="132570659548254361" remote="132570713400000000" Dst="1" />
+<file name="HttpFormatter.php" server="ftp.rootednsoil.com//public_html/" local="132570659549171889" remote="132570713400000000" Dst="1" />
+<file name="IServiceFilter.php" server="ftp.rootednsoil.com//public_html/" local="132570659549411244" remote="132570713400000000" Dst="1" />
+<file name="InvalidArgumentTypeException.php" server="ftp.rootednsoil.com//public_html/" local="132570659549261642" remote="132570713400000000" Dst="1" />
+<file name="Logger.php" server="ftp.rootednsoil.com//public_html/" local="132570659549510985" remote="132570713400000000" Dst="1" />
+<file name="Resources.php" server="ftp.rootednsoil.com//public_html/" local="132570659549530932" remote="132570713400000000" Dst="1" />
+<file name="RestProxy.php" server="ftp.rootednsoil.com//public_html/" local="132570659549710461" remote="132570713400000000" Dst="1" />
+<file name="RetryMiddlewareFactory.php" server="ftp.rootednsoil.com//public_html/" local="132570659549879996" remote="132570713400000000" Dst="1" />
+<file name="ServiceRestProxy.php" server="ftp.rootednsoil.com//public_html/" local="132570659550478408" remote="132570713400000000" Dst="1" />
+<file name="ServiceSettings.php" server="ftp.rootednsoil.com//public_html/" local="132570659550608042" remote="132570713400000000" Dst="1" />
+<file name="StorageServiceSettings.php" server="ftp.rootednsoil.com//public_html/" local="132570659550727749" remote="132570713400000000" Dst="1" />
+<file name="Utilities.php" server="ftp.rootednsoil.com//public_html/" local="132570659550907255" remote="132570713400000000" Dst="1" />
+<file name="Validate.php" server="ftp.rootednsoil.com//public_html/" local="132570659551026924" remote="132570713400000000" Dst="1" />
+</dwsync>

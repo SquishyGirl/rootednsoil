@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractMonitoringMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659475065339" remote="132570717600000000" Dst="1" />
+<file name="ApiCallAttemptMonitoringMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659475085292" remote="132570717600000000" Dst="1" />
+<file name="ApiCallMonitoringMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659475783453" remote="132570717600000000" Dst="1" />
+<file name="Configuration.php" server="ftp.rootednsoil.com//public_html/" local="132570659475813393" remote="132570717600000000" Dst="1" />
+<file name="ConfigurationInterface.php" server="ftp.rootednsoil.com//public_html/" local="132570659476162413" remote="132570717600000000" Dst="1" />
+<file name="ConfigurationProvider.php" server="ftp.rootednsoil.com//public_html/" local="132570659476262495" remote="132570717600000000" Dst="1" />
+<file name="MonitoringMiddlewareInterface.php" server="ftp.rootednsoil.com//public_html/" local="132570659476561356" remote="132570717600000000" Dst="1" />
+</dwsync>

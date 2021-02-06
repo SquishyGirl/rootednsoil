@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AwsClientInterface.php" server="ftp.rootednsoil.com//public_html/" local="132570659473649135" remote="132570715800000000" Dst="1" />
+<file name="AwsClient.php" server="ftp.rootednsoil.com//public_html/" local="132570659473539437" remote="132570715800000000" Dst="1" />
+<file name="AwsClientTrait.php" server="ftp.rootednsoil.com//public_html/" local="132570659474656439" remote="132570715800000000" Dst="1" />
+<file name="CacheInterface.php" server="ftp.rootednsoil.com//public_html/" local="132570659474686364" remote="132570715800000000" Dst="1" />
+<file name="ClientResolver.php" server="ftp.rootednsoil.com//public_html/" local="132570659474845959" remote="132570715800000000" Dst="1" />
+<file name="Command.php" server="ftp.rootednsoil.com//public_html/" local="132570659490484116" remote="132570715800000000" Dst="1" />
+<file name="CommandInterface.php" server="ftp.rootednsoil.com//public_html/" local="132570659490504063" remote="132570715800000000" Dst="1" />
+<file name="CommandPool.php" server="ftp.rootednsoil.com//public_html/" local="132570659490524005" remote="132570715800000000" Dst="1" />
+<file name="DoctrineCacheAdapter.php" server="ftp.rootednsoil.com//public_html/" local="132570659506481331" remote="132570715800000000" Dst="1" />
+<file name="EndpointParameterMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659507737973" remote="132570715800000000" Dst="1" />
+<file name="HasDataTrait.php" server="ftp.rootednsoil.com//public_html/" local="132570659508924796" remote="132570715800000000" Dst="1" />
+<file name="HandlerList.php" server="ftp.rootednsoil.com//public_html/" local="132570659508745313" remote="132570715800000000" Dst="1" />
+<file name="HasMonitoringEventsTrait.php" server="ftp.rootednsoil.com//public_html/" local="132570659509174133" remote="132570715800000000" Dst="1" />
+<file name="HashInterface.php" server="ftp.rootednsoil.com//public_html/" local="132570659509094361" remote="132570715800000000" Dst="1" />
+<file name="HashingStream.php" server="ftp.rootednsoil.com//public_html/" local="132570659509074394" remote="132570715800000000" Dst="1" />
+<file name="History.php" server="ftp.rootednsoil.com//public_html/" local="132570659509313758" remote="132570715800000000" Dst="1" />
+<file name="JsonCompiler.php" server="ftp.rootednsoil.com//public_html/" local="132570659509622943" remote="132570715800000000" Dst="1" />
+<file name="IdempotencyTokenMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659509493279" remote="132570715800000000" Dst="1" />
+<file name="LruArrayCache.php" server="ftp.rootednsoil.com//public_html/" local="132570659509772558" remote="132570715800000000" Dst="1" />
+<file name="Middleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659509952057" remote="132570715800000000" Dst="1" />
+<file name="MockHandler.php" server="ftp.rootednsoil.com//public_html/" local="132570659510161504" remote="132570715800000000" Dst="1" />
+<file name="MonitoringEventsInterface.php" server="ftp.rootednsoil.com//public_html/" local="132570659510331060" remote="132570715800000000" Dst="1" />
+<file name="MultiRegionClient.php" server="ftp.rootednsoil.com//public_html/" local="132570659510410823" remote="132570715800000000" Dst="1" />
+<file name="PhpHash.php" server="ftp.rootednsoil.com//public_html/" local="132570659510530504" remote="132570715800000000" Dst="1" />
+<file name="PresignUrlMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659510670148" remote="132570715800000000" Dst="1" />
+<file name="Psr16CacheAdapter.php" server="ftp.rootednsoil.com//public_html/" local="132570659510690075" remote="132570715800000000" Dst="1" />
+<file name="ResponseContainerInterface.php" server="ftp.rootednsoil.com//public_html/" local="132570659510829705" remote="132570715800000000" Dst="1" />
+<file name="PsrCacheAdapter.php" server="ftp.rootednsoil.com//public_html/" local="132570659510700050" remote="132570715800000000" Dst="1" />
+<file name="Result.php" server="ftp.rootednsoil.com//public_html/" local="132570659510909490" remote="132570715800000000" Dst="1" />
+<file name="ResultInterface.php" server="ftp.rootednsoil.com//public_html/" local="132570659511009251" remote="132570715800000000" Dst="1" />
+<file name="ResultPaginator.php" server="ftp.rootednsoil.com//public_html/" local="132570659511029241" remote="132570715800000000" Dst="1" />
+<file name="RetryMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659511218661" remote="132570715800000000" Dst="1" />
+<file name="Sdk.php" server="ftp.rootednsoil.com//public_html/" local="132570659515058410" remote="132570715800000000" Dst="1" />
+<file name="TraceMiddleware.php" server="ftp.rootednsoil.com//public_html/" local="132570659516235247" remote="132570715800000000" Dst="1" />
+<file name="Waiter.php" server="ftp.rootednsoil.com//public_html/" local="132570659516354927" remote="132570715800000000" Dst="1" />
+<file name="WrappedHttpHandler.php" server="ftp.rootednsoil.com//public_html/" local="132570659516474624" remote="132570715800000000" Dst="1" />
+<file name="functions.php" server="ftp.rootednsoil.com//public_html/" local="132570659508396230" remote="132570715800000000" Dst="1" />
+</dwsync>
