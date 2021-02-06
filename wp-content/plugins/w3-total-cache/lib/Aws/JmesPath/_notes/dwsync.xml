@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AstRuntime.php" server="ftp.rootednsoil.com//public_html/" local="132569719865691638" remote="132308028000000000" Dst="1" />
+<file name="CompilerRuntime.php" server="ftp.rootednsoil.com//public_html/" local="132569719878567181" remote="132308028000000000" Dst="1" />
+<file name="DebugRuntime.php" server="ftp.rootednsoil.com//public_html/" local="132569719904428012" remote="132308028000000000" Dst="1" />
+<file name="Env.php" server="ftp.rootednsoil.com//public_html/" local="132569719912227552" remote="132308028000000000" Dst="1" />
+<file name="FnDispatcher.php" server="ftp.rootednsoil.com//public_html/" local="132569719921542631" remote="132308028000000000" Dst="1" />
+<file name="JmesPath.php" server="ftp.rootednsoil.com//public_html/" local="132569719943902442" remote="132308028000000000" Dst="1" />
+<file name="Lexer.php" server="ftp.rootednsoil.com//public_html/" local="132569719962841781" remote="132308028000000000" Dst="1" />
+<file name="Parser.php" server="ftp.rootednsoil.com//public_html/" local="132569719970840386" remote="132308028000000000" Dst="1" />
+<file name="SyntaxErrorException.php" server="ftp.rootednsoil.com//public_html/" local="132569719986249210" remote="132308028000000000" Dst="1" />
+<file name="TreeCompiler.php" server="ftp.rootednsoil.com//public_html/" local="132569720001083467" remote="132308028000000000" Dst="1" />
+<file name="TreeInterpreter.php" server="ftp.rootednsoil.com//public_html/" local="132569720004773607" remote="132308028000000000" Dst="1" />
+<file name="Utils.php" server="ftp.rootednsoil.com//public_html/" local="132569720025787392" remote="132308028000000000" Dst="1" />
+</dwsync>

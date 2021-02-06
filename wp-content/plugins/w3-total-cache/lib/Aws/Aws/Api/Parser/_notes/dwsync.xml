@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractParser.php" server="ftp.rootednsoil.com//public_html/" local="132569715491625398" remote="132308028000000000" Dst="1" />
+<file name="AbstractRestParser.php" server="ftp.rootednsoil.com//public_html/" local="132569715494836741" remote="132308028000000000" Dst="1" />
+<file name="Crc32ValidatingParser.php" server="ftp.rootednsoil.com//public_html/" local="132569715498666501" remote="132308028000000000" Dst="1" />
+<file name="DecodingEventStreamIterator.php" server="ftp.rootednsoil.com//public_html/" local="132569715542060432" remote="132308028000000000" Dst="1" />
+<file name="EventParsingIterator.php" server="ftp.rootednsoil.com//public_html/" local="132569715586671127" remote="132308028000000000" Dst="1" />
+<file name="JsonParser.php" server="ftp.rootednsoil.com//public_html/" local="132569715613509331" remote="132308028000000000" Dst="1" />
+<file name="JsonRpcParser.php" server="ftp.rootednsoil.com//public_html/" local="132569715623731991" remote="132308028000000000" Dst="1" />
+<file name="PayloadParserTrait.php" server="ftp.rootednsoil.com//public_html/" local="132569715629676091" remote="132308028000000000" Dst="1" />
+<file name="QueryParser.php" server="ftp.rootednsoil.com//public_html/" local="132569715656753676" remote="132308028000000000" Dst="1" />
+<file name="RestJsonParser.php" server="ftp.rootednsoil.com//public_html/" local="132569715661461080" remote="132308028000000000" Dst="1" />
+<file name="RestXmlParser.php" server="ftp.rootednsoil.com//public_html/" local="132569715665978997" remote="132308028000000000" Dst="1" />
+<file name="XmlParser.php" server="ftp.rootednsoil.com//public_html/" local="132569715697903635" remote="132308028000000000" Dst="1" />
+</dwsync>
