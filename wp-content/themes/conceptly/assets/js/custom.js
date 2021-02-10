@@ -21,6 +21,8 @@ var ConceptlyThemeJs;
     init: function() {
       // Document ready event check
       this.$document.on( 'ready', this.documentReadyRender.bind( this ) );
+      this.$document.on( 'ready', this.mobileMenuClone.bind( this ) );
+      this.$document.on( 'ready', this.mobileMenuRight.bind( this ) );
       this.$document.on( 'ready', this.processAutoheight.bind( this ) );
       this.$window.on( 'ready', this.documentReadyRender.bind( this ) );
     },
@@ -53,10 +55,6 @@ var ConceptlyThemeJs;
         .on('scroll.' + this.eventID, this.scrollToSticky.bind( this ) )
 
         .on('scroll.' + this.eventID, this.scrollUp.bind( this ) )
-
-        .on('load.' + this.eventID, this.mobileMenuRight.bind( this ) )
-        
-        .on('load.' + this.eventID, this.mobileMenuClone.bind( this ) )
 
         .on( 'load.' + this.eventID, this.menuFocusAccessibility.bind( this ) )
 
