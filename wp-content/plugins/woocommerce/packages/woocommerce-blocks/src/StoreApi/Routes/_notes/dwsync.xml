@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCartRoute.php" server="ftp.rootednsoil.com//public_html/" local="132576336616939502" remote="132575830800000000" Dst="1" />
+<file name="AbstractRoute.php" server="ftp.rootednsoil.com//public_html/" local="132576336620821390" remote="132575830800000000" Dst="1" />
+<file name="AbstractTermsRoute.php" server="ftp.rootednsoil.com//public_html/" local="132576336621589295" remote="132575830800000000" Dst="1" />
+<file name="Cart.php" server="ftp.rootednsoil.com//public_html/" local="132576336623378025" remote="132575830800000000" Dst="1" />
+<file name="CartAddItem.php" server="ftp.rootednsoil.com//public_html/" local="132576336627720261" remote="132575830800000000" Dst="1" />
+<file name="CartApplyCoupon.php" server="ftp.rootednsoil.com//public_html/" local="132576336628871313" remote="132575830800000000" Dst="1" />
+<file name="CartCoupons.php" server="ftp.rootednsoil.com//public_html/" local="132576336630105001" remote="132575830800000000" Dst="1" />
+<file name="CartCouponsByCode.php" server="ftp.rootednsoil.com//public_html/" local="132576336633791731" remote="132575830800000000" Dst="1" />
+<file name="CartItems.php" server="ftp.rootednsoil.com//public_html/" local="132576336634888896" remote="132575830800000000" Dst="1" />
+<file name="CartItemsByKey.php" server="ftp.rootednsoil.com//public_html/" local="132576336636054851" remote="132575830800000000" Dst="1" />
+<file name="CartRemoveCoupon.php" server="ftp.rootednsoil.com//public_html/" local="132576336639815674" remote="132575830800000000" Dst="1" />
+<file name="CartRemoveItem.php" server="ftp.rootednsoil.com//public_html/" local="132576336640949447" remote="132575830800000000" Dst="1" />
+<file name="CartSelectShippingRate.php" server="ftp.rootednsoil.com//public_html/" local="132576336642006732" remote="132575830800000000" Dst="1" />
+<file name="CartUpdateCustomer.php" server="ftp.rootednsoil.com//public_html/" local="132576336646054030" remote="132575830800000000" Dst="1" />
+<file name="CartUpdateItem.php" server="ftp.rootednsoil.com//public_html/" local="132576336646832500" remote="132575830800000000" Dst="1" />
+<file name="Checkout.php" server="ftp.rootednsoil.com//public_html/" local="132576336649953429" remote="132575830800000000" Dst="1" />
+<file name="ProductAttributeTerms.php" server="ftp.rootednsoil.com//public_html/" local="132576336652146468" remote="132575830800000000" Dst="1" />
+<file name="ProductAttributes.php" server="ftp.rootednsoil.com//public_html/" local="132576336653577240" remote="132575830800000000" Dst="1" />
+<file name="ProductAttributesById.php" server="ftp.rootednsoil.com//public_html/" local="132576336656308274" remote="132575830800000000" Dst="1" />
+<file name="ProductCategories.php" server="ftp.rootednsoil.com//public_html/" local="132576336659423467" remote="132575830800000000" Dst="1" />
+<file name="ProductCategoriesById.php" server="ftp.rootednsoil.com//public_html/" local="132576336659872537" remote="132575830800000000" Dst="1" />
+<file name="ProductCollectionData.php" server="ftp.rootednsoil.com//public_html/" local="132576336664077582" remote="132575830800000000" Dst="1" />
+<file name="ProductTags.php" server="ftp.rootednsoil.com//public_html/" local="132576336666765366" remote="132575830800000000" Dst="1" />
+<file name="ProductReviews.php" server="ftp.rootednsoil.com//public_html/" local="132576336667134248" remote="132575830800000000" Dst="1" />
+<file name="Products.php" server="ftp.rootednsoil.com//public_html/" local="132576336672868740" remote="132575830800000000" Dst="1" />
+<file name="RouteException.php" server="ftp.rootednsoil.com//public_html/" local="132576336674524404" remote="132575830800000000" Dst="1" />
+<file name="ProductsById.php" server="ftp.rootednsoil.com//public_html/" local="132576336675007729" remote="132575830800000000" Dst="1" />
+<file name="RouteInterface.php" server="ftp.rootednsoil.com//public_html/" local="132576336679562873" remote="132575830800000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CronExpression.php" server="ftp.rootednsoil.com//public_html/" local="132576331617122960" remote="132575830800000000" Dst="1" />
+<file name="CronExpression_AbstractField.php" server="ftp.rootednsoil.com//public_html/" local="132576331619924402" remote="132575830800000000" Dst="1" />
+<file name="CronExpression_DayOfMonthField.php" server="ftp.rootednsoil.com//public_html/" local="132576331623075772" remote="132575830800000000" Dst="1" />
+<file name="CronExpression_DayOfWeekField.php" server="ftp.rootednsoil.com//public_html/" local="132576331626472023" remote="132575830800000000" Dst="1" />
+<file name="CronExpression_FieldFactory.php" server="ftp.rootednsoil.com//public_html/" local="132576331628674519" remote="132575830800000000" Dst="1" />
+<file name="CronExpression_FieldInterface.php" server="ftp.rootednsoil.com//public_html/" local="132576331632471918" remote="132575830800000000" Dst="1" />
+<file name="CronExpression_HoursField.php" server="ftp.rootednsoil.com//public_html/" local="132576331635324198" remote="132575830800000000" Dst="1" />
+<file name="CronExpression_MinutesField.php" server="ftp.rootednsoil.com//public_html/" local="132576331638808419" remote="132575830800000000" Dst="1" />
+<file name="CronExpression_MonthField.php" server="ftp.rootednsoil.com//public_html/" local="132576331641586107" remote="132575830800000000" Dst="1" />
+<file name="CronExpression_YearField.php" server="ftp.rootednsoil.com//public_html/" local="132576331645326628" remote="132575830800000000" Dst="1" />
+<file name="LICENSE" server="ftp.rootednsoil.com//public_html/" local="132576331648951290" remote="132575830800000000" Dst="1" />
+</dwsync>

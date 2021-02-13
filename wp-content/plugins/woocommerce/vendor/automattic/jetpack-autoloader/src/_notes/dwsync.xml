@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AutoloadFileWriter.php" server="ftp.rootednsoil.com//public_html/" local="132576337559778417" remote="132575830800000000" Dst="1" />
+<file name="AutoloadGenerator.php" server="ftp.rootednsoil.com//public_html/" local="132576337564980560" remote="132575830800000000" Dst="1" />
+<file name="AutoloadProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576337567471006" remote="132575830800000000" Dst="1" />
+<file name="CustomAutoloaderPlugin.php" server="ftp.rootednsoil.com//public_html/" local="132576337572213677" remote="132575830800000000" Dst="1" />
+<file name="ManifestGenerator.php" server="ftp.rootednsoil.com//public_html/" local="132576337573238075" remote="132575830800000000" Dst="1" />
+<file name="autoload.php" server="ftp.rootednsoil.com//public_html/" local="132576337578199147" remote="132575830800000000" Dst="1" />
+<file name="class-autoloader-handler.php" server="ftp.rootednsoil.com//public_html/" local="132576337579462461" remote="132575830800000000" Dst="1" />
+<file name="class-autoloader-locator.php" server="ftp.rootednsoil.com//public_html/" local="132576337584493925" remote="132575830800000000" Dst="1" />
+<file name="class-autoloader.php" server="ftp.rootednsoil.com//public_html/" local="132576337585648961" remote="132575830800000000" Dst="1" />
+<file name="class-hook-manager.php" server="ftp.rootednsoil.com//public_html/" local="132576337590635218" remote="132575830800000000" Dst="1" />
+<file name="class-latest-autoloader-guard.php" server="ftp.rootednsoil.com//public_html/" local="132576337591999774" remote="132575830800000000" Dst="1" />
+<file name="class-manifest-reader.php" server="ftp.rootednsoil.com//public_html/" local="132576337596607079" remote="132575830800000000" Dst="1" />
+<file name="class-container.php" server="ftp.rootednsoil.com//public_html/" local="132576337597145606" remote="132575830800000000" Dst="1" />
+<file name="class-path-processor.php" server="ftp.rootednsoil.com//public_html/" local="132576337598443322" remote="132575830800000000" Dst="1" />
+<file name="class-php-autoloader.php" server="ftp.rootednsoil.com//public_html/" local="132576337603376369" remote="132575830800000000" Dst="1" />
+<file name="class-plugin-locator.php" server="ftp.rootednsoil.com//public_html/" local="132576337603735313" remote="132575830800000000" Dst="1" />
+<file name="class-plugins-handler.php" server="ftp.rootednsoil.com//public_html/" local="132576337604993858" remote="132575830800000000" Dst="1" />
+<file name="class-version-loader.php" server="ftp.rootednsoil.com//public_html/" local="132576337609974912" remote="132575830800000000" Dst="1" />
+<file name="class-version-selector.php" server="ftp.rootednsoil.com//public_html/" local="132576337610373927" remote="132575830800000000" Dst="1" />
+</dwsync>

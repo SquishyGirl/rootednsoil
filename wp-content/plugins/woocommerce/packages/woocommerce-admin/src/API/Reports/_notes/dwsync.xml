@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Cache.php" server="ftp.rootednsoil.com//public_html/" local="132576332256212247" remote="132575830800000000" Dst="1" />
+<file name="Controller.php" server="ftp.rootednsoil.com//public_html/" local="132576332264895668" remote="132575830800000000" Dst="1" />
+<file name="DataStoreInterface.php" server="ftp.rootednsoil.com//public_html/" local="132576332296786937" remote="132575830800000000" Dst="1" />
+<file name="DataStore.php" server="ftp.rootednsoil.com//public_html/" local="132576332298807610" remote="132575830800000000" Dst="1" />
+<file name="ExportableInterface.php" server="ftp.rootednsoil.com//public_html/" local="132576332316972265" remote="132575830800000000" Dst="1" />
+<file name="ExportableTraits.php" server="ftp.rootednsoil.com//public_html/" local="132576332317815170" remote="132575830800000000" Dst="1" />
+<file name="ParameterException.php" server="ftp.rootednsoil.com//public_html/" local="132576332338605742" remote="132575830800000000" Dst="1" />
+<file name="Query.php" server="ftp.rootednsoil.com//public_html/" local="132576332371235026" remote="132575830800000000" Dst="1" />
+<file name="Segmenter.php" server="ftp.rootednsoil.com//public_html/" local="132576332379927290" remote="132575830800000000" Dst="1" />
+<file name="SqlQuery.php" server="ftp.rootednsoil.com//public_html/" local="132576332383168599" remote="132575830800000000" Dst="1" />
+<file name="TimeInterval.php" server="ftp.rootednsoil.com//public_html/" local="132576332423531116" remote="132575830800000000" Dst="1" />
+</dwsync>

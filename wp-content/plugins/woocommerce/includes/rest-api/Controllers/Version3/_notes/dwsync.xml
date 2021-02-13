@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class-wc-rest-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330884189757" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-coupons-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330886185499" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-crud-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330889569946" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-customer-downloads-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330891835464" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-customers-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330894658796" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-data-continents-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330897714153" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-data-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330900156618" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-data-countries-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330902746620" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-data-currencies-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330904234128" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-network-orders-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330906865001" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-order-notes-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330909112401" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-order-refunds-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330909923462" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-orders-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330912621401" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-payment-gateways-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330916503716" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-posts-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330917800827" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-product-attribute-terms-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330918719769" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-product-attributes-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330923210747" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-product-categories-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330924710922" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-product-reviews-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330927842611" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-product-shipping-classes-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330929576672" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-product-tags-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330930254855" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-product-variations-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330937040124" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-report-coupons-totals-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330938923804" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-products-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330941127369" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-report-orders-totals-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330945071516" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-report-products-totals-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330946977738" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-report-reviews-totals-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330951598111" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-report-sales-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330954420895" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-report-top-sellers-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330957583713" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-reports-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330960701927" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-setting-options-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330964117125" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-settings-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330967130589" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-shipping-methods-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330969779405" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-shipping-zone-locations-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330973519949" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-shipping-zone-methods-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330976487424" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-shipping-zones-controller-base.php" server="ftp.rootednsoil.com//public_html/" local="132576330979974809" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-shipping-zones-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330983455194" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-system-status-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330986717781" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-system-status-tools-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330989979281" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-tax-classes-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330993709295" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-taxes-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576330996609761" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-terms-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576331002653747" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-webhooks-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576331004920888" remote="132575830800000000" Dst="1" />
+<file name="class-wc-rest-report-customers-totals-controller.php" server="ftp.rootednsoil.com//public_html/" local="132576343142189508" remote="132575830800000000" Dst="1" />
+</dwsync>
