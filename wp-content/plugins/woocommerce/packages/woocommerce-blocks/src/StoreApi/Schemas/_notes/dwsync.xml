@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336685759600" remote="132575830800000000" Dst="1" />
+<file name="BillingAddressSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336686497833" remote="132575830800000000" Dst="1" />
+<file name="CartCouponSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336688036197" remote="132575830800000000" Dst="1" />
+<file name="CartItemSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336693451810" remote="132575830800000000" Dst="1" />
+<file name="CartSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336694571395" remote="132575830800000000" Dst="1" />
+<file name="CartShippingRateSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336697434561" remote="132575830800000000" Dst="1" />
+<file name="CheckoutSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336701616065" remote="132575830800000000" Dst="1" />
+<file name="ErrorSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336702084774" remote="132575830800000000" Dst="1" />
+<file name="ImageAttachmentSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336704063617" remote="132575830800000000" Dst="1" />
+<file name="OrderCouponSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336708454157" remote="132575830800000000" Dst="1" />
+<file name="ProductAttributeSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336708892948" remote="132575830800000000" Dst="1" />
+<file name="ProductCategorySchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336711271452" remote="132575830800000000" Dst="1" />
+<file name="ProductCollectionDataSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336715210850" remote="132575830800000000" Dst="1" />
+<file name="ProductReviewSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336715659702" remote="132575830800000000" Dst="1" />
+<file name="ProductSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336719821797" remote="132575830800000000" Dst="1" />
+<file name="ShippingAddressSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336722786028" remote="132575830800000000" Dst="1" />
+<file name="TermSchema.php" server="ftp.rootednsoil.com//public_html/" local="132576336723334541" remote="132575830800000000" Dst="1" />
+</dwsync>

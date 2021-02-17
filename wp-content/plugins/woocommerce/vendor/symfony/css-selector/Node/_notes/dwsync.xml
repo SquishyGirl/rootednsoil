@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractNode.php" server="ftp.rootednsoil.com//public_html/" local="132576337965601228" remote="132575830800000000" Dst="1" />
+<file name="AttributeNode.php" server="ftp.rootednsoil.com//public_html/" local="132576337966603556" remote="132575830800000000" Dst="1" />
+<file name="CombinedSelectorNode.php" server="ftp.rootednsoil.com//public_html/" local="132576337971553798" remote="132575830800000000" Dst="1" />
+<file name="ClassNode.php" server="ftp.rootednsoil.com//public_html/" local="132576337971992615" remote="132575830800000000" Dst="1" />
+<file name="ElementNode.php" server="ftp.rootednsoil.com//public_html/" local="132576337972828175" remote="132575830800000000" Dst="1" />
+<file name="FunctionNode.php" server="ftp.rootednsoil.com//public_html/" local="132576337977623382" remote="132575830800000000" Dst="1" />
+<file name="HashNode.php" server="ftp.rootednsoil.com//public_html/" local="132576337978102003" remote="132575830800000000" Dst="1" />
+<file name="NegationNode.php" server="ftp.rootednsoil.com//public_html/" local="132576337978958569" remote="132575830800000000" Dst="1" />
+<file name="NodeInterface.php" server="ftp.rootednsoil.com//public_html/" local="132576337983607785" remote="132575830800000000" Dst="1" />
+<file name="PseudoNode.php" server="ftp.rootednsoil.com//public_html/" local="132576337983936249" remote="132575830800000000" Dst="1" />
+<file name="SelectorNode.php" server="ftp.rootednsoil.com//public_html/" local="132576337984464817" remote="132575830800000000" Dst="1" />
+<file name="Specificity.php" server="ftp.rootednsoil.com//public_html/" local="132576337989408692" remote="132575830800000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Parvati Premium';
+  src:  url('parvati-premium.eot');
+  src:  url('parvati-premium.eot#iefix') format('embedded-opentype'),
+    url('parvati-premium.ttf') format('truetype'),
+    url('parvati-premium.woff') format('woff'),
+    url('parvati-premium.svg#gp-premium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

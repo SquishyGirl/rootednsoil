@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseLocationCountryRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332674242067" remote="132575830800000000" Dst="1" />
+<file name="BaseLocationStateRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332678534299" remote="132575830800000000" Dst="1" />
+<file name="ComparisonOperation.php" server="ftp.rootednsoil.com//public_html/" local="132576332680219112" remote="132575830800000000" Dst="1" />
+<file name="DataSourcePoller.php" server="ftp.rootednsoil.com//public_html/" local="132576332680975776" remote="132575830800000000" Dst="1" />
+<file name="EvaluateAndGetStatus.php" server="ftp.rootednsoil.com//public_html/" local="132576332684382502" remote="132575830800000000" Dst="1" />
+<file name="FailRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332686018092" remote="132575830800000000" Dst="1" />
+<file name="GetRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332687324447" remote="132575830800000000" Dst="1" />
+<file name="IsEcommerceRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332690396629" remote="132575830800000000" Dst="1" />
+<file name="NotRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332692441830" remote="132575830800000000" Dst="1" />
+<file name="NoteStatusRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332694017159" remote="132575830800000000" Dst="1" />
+<file name="OnboardingProfileRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332696119874" remote="132575830800000000" Dst="1" />
+<file name="OptionRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332698429312" remote="132575830800000000" Dst="1" />
+<file name="OrRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332699600480" remote="132575830800000000" Dst="1" />
+<file name="OrderCountRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332701413506" remote="132575830800000000" Dst="1" />
+<file name="OrdersProvider.php" server="ftp.rootednsoil.com//public_html/" local="132576332704280084" remote="132575830800000000" Dst="1" />
+<file name="PassRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332705746110" remote="132575830800000000" Dst="1" />
+<file name="PluginVersionRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332707441582" remote="132575830800000000" Dst="1" />
+<file name="PluginsActivatedRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332710248604" remote="132575830800000000" Dst="1" />
+<file name="ProductCountRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332712315913" remote="132575830800000000" Dst="1" />
+<file name="PublishAfterTimeRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332713741251" remote="132575830800000000" Dst="1" />
+<file name="PublishBeforeTimeRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332716284896" remote="132575830800000000" Dst="1" />
+<file name="RemoteInboxNotificationsEngine.php" server="ftp.rootednsoil.com//public_html/" local="132576332719157219" remote="132575830800000000" Dst="1" />
+<file name="RuleEvaluator.php" server="ftp.rootednsoil.com//public_html/" local="132576332719616002" remote="132575830800000000" Dst="1" />
+<file name="RuleProcessorInterface.php" server="ftp.rootednsoil.com//public_html/" local="132576332722368632" remote="132575830800000000" Dst="1" />
+<file name="SpecRunner.php" server="ftp.rootednsoil.com//public_html/" local="132576332725743610" remote="132575830800000000" Dst="1" />
+<file name="StoredStateRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332726190243" remote="132575830800000000" Dst="1" />
+<file name="StoredStateSetupForProducts.php" server="ftp.rootednsoil.com//public_html/" local="132576332728708581" remote="132575830800000000" Dst="1" />
+<file name="WCAdminActiveForProvider.php" server="ftp.rootednsoil.com//public_html/" local="132576332732058886" remote="132575830800000000" Dst="1" />
+<file name="WCAdminActiveForRuleProcessor.php" server="ftp.rootednsoil.com//public_html/" local="132576332733128644" remote="132575830800000000" Dst="1" />
+</dwsync>

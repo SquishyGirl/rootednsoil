@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class-wc-abstract-order-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330532448872" remote="132575830800000000" Dst="1" />
+<file name="class-wc-coupon-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330534875517" remote="132575830800000000" Dst="1" />
+<file name="class-wc-customer-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330536099839" remote="132575830800000000" Dst="1" />
+<file name="class-wc-customer-download-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330538326657" remote="132575830800000000" Dst="1" />
+<file name="class-wc-customer-download-log-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330540944444" remote="132575830800000000" Dst="1" />
+<file name="class-wc-importer-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330541939081" remote="132575830800000000" Dst="1" />
+<file name="class-wc-log-handler-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330544101254" remote="132575830800000000" Dst="1" />
+<file name="class-wc-logger-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330546953068" remote="132575830800000000" Dst="1" />
+<file name="class-wc-object-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330547404007" remote="132575830800000000" Dst="1" />
+<file name="class-wc-order-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330550235440" remote="132575830800000000" Dst="1" />
+<file name="class-wc-order-item-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330553517218" remote="132575830800000000" Dst="1" />
+<file name="class-wc-order-item-product-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330554126462" remote="132575830800000000" Dst="1" />
+<file name="class-wc-order-item-type-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330557190362" remote="132575830800000000" Dst="1" />
+<file name="class-wc-payment-token-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330559607209" remote="132575830800000000" Dst="1" />
+<file name="class-wc-order-refund-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330559776445" remote="132575830800000000" Dst="1" />
+<file name="class-wc-product-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330563368822" remote="132575830800000000" Dst="1" />
+<file name="class-wc-product-variable-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330566034832" remote="132575830800000000" Dst="1" />
+<file name="class-wc-queue-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330567011114" remote="132575830800000000" Dst="1" />
+<file name="class-wc-shipping-zone-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330571133501" remote="132575830800000000" Dst="1" />
+<file name="class-wc-webhooks-data-store-interface.php" server="ftp.rootednsoil.com//public_html/" local="132576330572927788" remote="132575830800000000" Dst="1" />
+</dwsync>

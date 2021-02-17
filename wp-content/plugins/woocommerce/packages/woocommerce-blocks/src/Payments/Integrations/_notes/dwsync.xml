@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractPaymentMethodType.php" server="ftp.rootednsoil.com//public_html/" local="132576336571268550" remote="132575830800000000" Dst="1" />
+<file name="BankTransfer.php" server="ftp.rootednsoil.com//public_html/" local="132576336573795861" remote="132575830800000000" Dst="1" />
+<file name="CashOnDelivery.php" server="ftp.rootednsoil.com//public_html/" local="132576336575177335" remote="132575830800000000" Dst="1" />
+<file name="Cheque.php" server="ftp.rootednsoil.com//public_html/" local="132576336577330034" remote="132575830800000000" Dst="1" />
+<file name="PayPal.php" server="ftp.rootednsoil.com//public_html/" local="132576336579942297" remote="132575830800000000" Dst="1" />
+<file name="Stripe.php" server="ftp.rootednsoil.com//public_html/" local="132576336582490091" remote="132575830800000000" Dst="1" />
+</dwsync>
