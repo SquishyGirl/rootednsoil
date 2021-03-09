@@ -27,28 +27,26 @@
 							<div class="theme-mobile-menu">
 								<div class="mobile-logo">
 									<div class="logo">
-			                            <a href="#">
-											 <?php
-												if(has_custom_logo())
-												{
-													the_custom_logo();
-												}
-												else { 
-												?>
-												<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
-													<h4 class="site-title">
-														<?php echo esc_html(get_bloginfo('name'));  ?>
-													</h4>	
-												</a>
-											<?php 						
-												}
+										<?php
+											if(has_custom_logo())
+											{
+												the_custom_logo();
+											}
+											else { 
 											?>
-											<?php
-												$conceptly_site_desc = get_bloginfo( 'description');
-												if ($conceptly_site_desc) : ?>
-													<p class="site-description"><?php echo esc_html($conceptly_site_desc); ?></p>
-											<?php endif; ?>
-										</a>
+											<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
+												<h4 class="site-title">
+													<?php echo esc_html(get_bloginfo('name'));  ?>
+												</h4>	
+											</a>
+										<?php 						
+											}
+										?>
+										<?php
+											$conceptly_site_desc = get_bloginfo( 'description');
+											if ($conceptly_site_desc) : ?>
+												<p class="site-description"><?php echo esc_html($conceptly_site_desc); ?></p>
+										<?php endif; ?>
 			                        </div>
 								</div>		
 								<div class="menu-toggle-wrap">
@@ -75,28 +73,26 @@
 		                <div class="row">
 		                    <div class="col-lg-3 col-6 my-auto">
 		                        <div class="logo">
-		                            <a href="#">
-										 <?php
-											if(has_custom_logo())
-											{	
-												the_custom_logo();
-											}
-											else { 
-											?>
-											<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
-												<h4 class="site-title">
-													<?php echo esc_html(get_bloginfo('name'));  ?>
-												</h4>	
-											</a>
-										<?php 						
-											}
+									<?php
+										if(has_custom_logo())
+										{	
+											the_custom_logo();
+										}
+										else { 
 										?>
-										<?php
-											$conceptly_site_desc = get_bloginfo( 'description');
-											if ($conceptly_site_desc) : ?>
-												<p class="site-description"><?php echo esc_html($conceptly_site_desc); ?></p>
-										<?php endif; ?>
-									</a>
+										<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
+											<h4 class="site-title">
+												<?php echo esc_html(get_bloginfo('name'));  ?>
+											</h4>	
+										</a>
+									<?php 						
+										}
+									?>
+									<?php
+										$conceptly_site_desc = get_bloginfo( 'description');
+										if ($conceptly_site_desc) : ?>
+											<p class="site-description"><?php echo esc_html($conceptly_site_desc); ?></p>
+									<?php endif; ?>
 		                        </div>
 		                    </div>
 		                    <div class="col-lg-9 my-auto">

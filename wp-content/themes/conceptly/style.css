@@ -4,7 +4,7 @@ Theme URI: https://www.nayrathemes.com/conceptly-free/
 Author: Nayra Themes
 Author URI: https://www.nayrathemes.com/
 Description: Conceptly is a fast and lightweight, multi-purpose WordPress theme. Enjoy Ken Burns effect, background elements, & smooth animations. Build amazing website with Conceptly. Checkout the demo of Conceptly Pro https://www.nayrathemes.com/demo/pro/?theme=conceptly
-Version: 1.0.48
+Version: 1.0.50
 Tested up to: 5.6
 Requires PHP: 5.6
 License: GPLv3 or later
@@ -1324,7 +1324,7 @@ button.owl-thumb-item {
     margin-right: 10px;
 }
 
-#breadcrumb-area ul li:after {
+#breadcrumb-area ul li a:after {
     content: '\f105';
     font-family: FontAwesome;
     margin-left: 10px;
