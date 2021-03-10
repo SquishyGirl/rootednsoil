@@ -2,4 +2,6 @@
 deployment:
   tasks:
   - export DEPLOYPATH=/home/roothzov/public_html
+  - export SRCPATH=/home/roothzov/repositories/rootednsoil
   - /bin/cp -a * $DEPLOYPATH
+  - /bin/rsync -av --exclude='.git/' --exlude='.gitignore*' --exlude='.cpanel.yml*' $SRCPATH $DEPLOYPATH
